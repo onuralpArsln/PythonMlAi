@@ -1,0 +1,1 @@
+print("İşlem için ilk sayıyı veriniz")
