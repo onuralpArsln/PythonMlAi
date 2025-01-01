@@ -13,7 +13,7 @@ def bolme(sayi1,sayi2):
     print(sayi1/sayi2)
 
 def echo(word):
-    word= word.upper()
+    word= word.upper() 
     word= word+" "
     word = word*3
     return word
