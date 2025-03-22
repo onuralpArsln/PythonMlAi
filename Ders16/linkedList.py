@@ -18,6 +18,7 @@ if __name__ == "__main__":
     currentNode=firstNode
 
     while currentNode is not None:
+        print(currentNode)
         print(currentNode.val)
         currentNode=currentNode.nextNode
 
